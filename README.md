@@ -2,7 +2,7 @@
 ---
 
 This is a project I have created for Cloud Computing (CENG495) class at METU.
-The purpose of this project was to use MongoDB Stitch API to create an app without paying for or provisioning any server for database. We had the liberty to not deploy our application anywhere if the app could be built and seen without much hassle so this one is not deployed anywhere for the hw (maybe i'll put it to GitHub Pages). This is only to demo MongoDB and stitch usage (I haven't made the best decisions for this :D )
+The purpose of this project was to use MongoDB Stitch API to create an app without paying for or provisioning any server for database. We had the liberty to not deploy our application anywhere if the app could be built so this one is not deployed anywhere. It is using MongoDB Stitch technology, which I believe is now replaced with MongoDB Atlas or Realms.
 
 ---
 
